@@ -1,2 +1,3 @@
 # happy_fun_times
-test commit
+Check out the hosted page on GitHub pages!
+https://daneburns.github.io/happy_fun_times/
